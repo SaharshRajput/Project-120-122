@@ -37,3 +37,20 @@ ol h5{
 hr{
     width: 550px;
 }
+h4 
+{
+    float: none;
+    white-space: inherit;
+}
+p{
+    background-color: red;
+    color: yellow;
+    border: 3px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px blue;
+    width: 700px;
+    height: 100px;
+    
+    padding-top: 15px;
+    margin-top: 50px;
+}
